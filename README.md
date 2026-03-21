@@ -1,4 +1,6 @@
 # Pulse-Code-Modulation
+# NAME:JOSHNA M
+# REG NO:212224060110
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
